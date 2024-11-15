@@ -33,6 +33,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cupcakes da Lene</title>
+    
+    <link rel="icon" href="img/icon.png">
 
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
 
@@ -74,54 +76,6 @@
         </form>
     </section>
     
-    <footer class="section-p1">
-        <div class="col">
-            <img class="logo" src="img/logo.png" alt="">
-            <h4>Contato</h4>
-            <p><strong>Endereço: </strong>Centro de Macapá</p>
-            <p><strong>Telefone:</strong>(+55) 96 99123 4567</p>
-            <p><strong>Horário de funcionamento:</strong> 10:00 - 18:00, Seg - Sab</p>
-            <div class="follow">
-                <h4>Siga-nos</h4>
-                <div class="icon">
-                    <i class="fab fa-facebook-f"></i>
-                    <i class="fab fa-twitter"></i>
-                    <i class="fab fa-instagram"></i>
-                    <i class="fab fa-pinterest-p"></i>
-                    <i class="fab fa-youtube"></i>
-                </div>
-            </div>
-        </div>
-
-        <div class="col">
-            <h4>Sobre</h4>
-            <a href="#">Sobre Nós</a>
-            <a href="#">Entregas</a>
-            <a href="#">Politica de Privacidade</a>
-            <a href="#">Termos e Condições</a>
-            <a href="#">Entre em contato</a>
-        </div>
-
-        <div class="col">
-            <h4>Minha Conta</h4>
-            <a href="#">Login</a>
-            <a href="#">Carrinho</a>
-            <a href="#">Lista de Desejo</a>
-            <a href="#">Fazer seu pedido</a>
-            <a href="#">Ajuda</a>
-        </div>
-
-        <div class="col install">
-            <h4>Instale nosso App</h4>
-            <p>App Store ou Google Play</p>
-            <div class="row">
-                <img src="img/pay/app.jpg" alt="">
-                <img src="img/pay/play.jpg" alt="">
-            </div>
-            <p>Formas de Pagamento </p>
-            <img src="img/pay/pay.png" alt="">
-        </div>
-
         <div class="copyright">
             <p>Doces da Lene LTDA - CNPJ: 01.234.567/0001-89 © Todos os direitos reservados. 2024</p>
         </div>
