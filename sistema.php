@@ -22,8 +22,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cupcakes da Lene</title>
+    
+    <link rel="icon" href="img/icon.png">
 
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
     <link rel="stylesheet" href="style.css">
@@ -112,17 +115,17 @@
 
         <div class="col">
             <h4>Sobre</h4>
-            <a href="#">Sobre Nós</a>
+            <a href="about.html">Sobre Nós</a>
             <a href="#">Entregas</a>
             <a href="#">Politica de Privacidade</a>
             <a href="#">Termos e Condições</a>
-            <a href="#">Entre em contato</a>
+            <a href="contact.html">Entre em contato</a>
         </div>
 
         <div class="col">
             <h4>Minha Conta</h4>
-            <a href="#">Login</a>
-            <a href="#">Carrinho</a>
+            <a href="account.php">Login</a>
+            <a href="cart.html">Carrinho</a>
             <a href="#">Lista de Desejo</a>
             <a href="#">Fazer seu pedido</a>
             <a href="#">Ajuda</a>
